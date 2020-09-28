@@ -2,6 +2,7 @@
   {
     "id": "23u8muakx8yq28zn0",
     "full_name": "Mateus Grellert",
+    "login": "grellert",
     "age": 32,
     "victories": 0,
     "plays": 10
@@ -9,6 +10,7 @@
   {
     "id": "9mu3u90muc0923213",
     "full_name": "John Doe",
+    "login": "johnDoeLOL"
     "victories": 5,
     "plays": 20
   },
