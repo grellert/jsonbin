@@ -14,7 +14,7 @@
                 "É sério que você quer que eu repita? É {self.__nome}!!!",
                 "Não te interessa!",
                 "Vai sumir se eu te disser? {self.__nome}, agora suma!"      
-                ],
+                ]
     },
 
     {
