@@ -11,9 +11,9 @@
         "id": 2,
         "mensagem": "Qual o seu nome?",
         "respostas": ["E o que tem de bom no dia?",
-                "f\"É sério que você quer que eu repita? É {self.__nome}!!!\"",
+                "É sério que você quer que eu repita? É Zangado!!!\"",
                 "Não te interessa!",
-                "f\"Vai sumir se eu te disser? {self.__nome}, agora suma!\""      
+                "Vai sumir se eu te disser? Zangado, agora suma!"
                 ]
     },
 
