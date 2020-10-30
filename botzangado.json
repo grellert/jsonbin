@@ -1,6 +1,7 @@
 [
     {
         "nome": "Zangado",
+        "codigo": 1,
         "comandos": 
         [
             {
